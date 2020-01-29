@@ -1,0 +1,7 @@
+创建Stream的第三种方法是通过一些API提供的接口，直接获得Stream。
+
+例如，Files类的lines()方法可以把一个文件变成一个Stream，每个元素代表文件的一行内容：
+
+try (Stream<String> lines = Files.lines(Paths.get("/path/to/file.txt"))) {
+    ...
+}
