@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec1cd116-7dbb-482a-b9bd-53794eaa5263" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jyh/excise/io/reader/Simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jyh/excise/io/reader/demo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/jyh/excise/io/collect" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -52,8 +53,11 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jyh.excise.lambda" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/jyh/excise/io/collect" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Simple">
+  <component name="RunManager" selected="Application.ZipInputStreamSimple">
     <configuration name="CompletableFutureSimple2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jyh.excise.thread.CompletableFutureSimple2" />
       <module name="java-excise" />
@@ -91,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Simple" />
         <item itemvalue="Application.ZipInputStreamSimple" />
+        <item itemvalue="Application.Simple" />
         <item itemvalue="Application.CountInputStream" />
         <item itemvalue="Application.ForkJoinSimple" />
         <item itemvalue="Application.CompletableFutureSimple2" />
@@ -145,42 +149,42 @@
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
     <state x="653" y="421" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1792.1021@0.23.1792.1021" timestamp="1579267096523" />
-    <state width="1771" height="271" key="GridCell.Tab.0.bottom" timestamp="1580300806541">
+    <state width="1771" height="271" key="GridCell.Tab.0.bottom" timestamp="1580355223581">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1021@0.23.1792.1021" timestamp="1580300806541" />
-    <state width="1771" height="271" key="GridCell.Tab.0.center" timestamp="1580300806540">
+    <state width="1771" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1021@0.23.1792.1021" timestamp="1580355223581" />
+    <state width="1771" height="271" key="GridCell.Tab.0.center" timestamp="1580355223580">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="271" key="GridCell.Tab.0.center/0.23.1792.1021@0.23.1792.1021" timestamp="1580300806540" />
-    <state width="1771" height="271" key="GridCell.Tab.0.left" timestamp="1580300806539">
+    <state width="1771" height="271" key="GridCell.Tab.0.center/0.23.1792.1021@0.23.1792.1021" timestamp="1580355223580" />
+    <state width="1771" height="271" key="GridCell.Tab.0.left" timestamp="1580355223580">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="271" key="GridCell.Tab.0.left/0.23.1792.1021@0.23.1792.1021" timestamp="1580300806539" />
-    <state width="1771" height="271" key="GridCell.Tab.0.right" timestamp="1580300806540">
+    <state width="1771" height="271" key="GridCell.Tab.0.left/0.23.1792.1021@0.23.1792.1021" timestamp="1580355223580" />
+    <state width="1771" height="271" key="GridCell.Tab.0.right" timestamp="1580355223581">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="271" key="GridCell.Tab.0.right/0.23.1792.1021@0.23.1792.1021" timestamp="1580300806540" />
-    <state width="1771" height="334" key="GridCell.Tab.1.bottom" timestamp="1579181095864">
+    <state width="1771" height="271" key="GridCell.Tab.0.right/0.23.1792.1021@0.23.1792.1021" timestamp="1580355223581" />
+    <state width="1771" height="334" key="GridCell.Tab.1.bottom" timestamp="1580355091671">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="334" key="GridCell.Tab.1.bottom/0.23.1792.1021@0.23.1792.1021" timestamp="1579181095864" />
-    <state width="1771" height="334" key="GridCell.Tab.1.center" timestamp="1579181095863">
+    <state width="1771" height="334" key="GridCell.Tab.1.bottom/0.23.1792.1021@0.23.1792.1021" timestamp="1580355091671" />
+    <state width="1771" height="334" key="GridCell.Tab.1.center" timestamp="1580355091670">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="334" key="GridCell.Tab.1.center/0.23.1792.1021@0.23.1792.1021" timestamp="1579181095863" />
-    <state width="1771" height="334" key="GridCell.Tab.1.left" timestamp="1579181095863">
+    <state width="1771" height="334" key="GridCell.Tab.1.center/0.23.1792.1021@0.23.1792.1021" timestamp="1580355091670" />
+    <state width="1771" height="334" key="GridCell.Tab.1.left" timestamp="1580355091670">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="334" key="GridCell.Tab.1.left/0.23.1792.1021@0.23.1792.1021" timestamp="1579181095863" />
-    <state width="1771" height="334" key="GridCell.Tab.1.right" timestamp="1579181095864">
+    <state width="1771" height="334" key="GridCell.Tab.1.left/0.23.1792.1021@0.23.1792.1021" timestamp="1580355091670" />
+    <state width="1771" height="334" key="GridCell.Tab.1.right" timestamp="1580355091670">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1771" height="334" key="GridCell.Tab.1.right/0.23.1792.1021@0.23.1792.1021" timestamp="1579181095864" />
-    <state x="496" y="283" key="Vcs.Push.Dialog.v2" timestamp="1580300887166">
+    <state width="1771" height="334" key="GridCell.Tab.1.right/0.23.1792.1021@0.23.1792.1021" timestamp="1580355091670" />
+    <state x="496" y="283" key="Vcs.Push.Dialog.v2" timestamp="1580355165816">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state x="496" y="283" key="Vcs.Push.Dialog.v2/0.23.1792.1021@0.23.1792.1021" timestamp="1580300887166" />
+    <state x="496" y="283" key="Vcs.Push.Dialog.v2/0.23.1792.1021@0.23.1792.1021" timestamp="1580355165816" />
     <state x="554" y="305" width="886" height="540" key="find.popup" timestamp="1580056478958">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
